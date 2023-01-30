@@ -1,0 +1,17 @@
+.gitHub-container {
+  min-width: 480px;
+  max-width: 900px;
+  height: 100wh;
+  background-color: rgb(235, 235, 235);
+  margin: auto;
+  box-shadow: 0px 0px 5px rgb(235, 235, 235);
+  padding: 15px;
+}
+
+.logo-github{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

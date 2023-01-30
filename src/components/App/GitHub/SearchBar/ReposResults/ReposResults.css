@@ -1,0 +1,43 @@
+.repos-container{
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3.5%;
+  row-gap: 20px;
+  justify-content: center;
+}
+
+.repo-founded{
+  width: 31%;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  border: 1px solid rgb(194, 194, 194);
+  box-shadow: 0px 0px 2px rgb(194, 194, 194);
+  border-radius: 5px;
+}
+
+.repo-logo{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.repos-title{
+  font-size: large;
+  font-weight: 900;
+  margin: 2px;
+}
+
+.repos-subtitle{
+  color: rgb(197, 197, 197);
+  margin: 2px;
+}
+
+a{
+  word-wrap: break-word;
+}
+
+a:hover {
+  color:grey;
+}
